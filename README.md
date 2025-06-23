@@ -44,6 +44,7 @@ Data Science & ML:
 Python Libraries: 
 - Pandas,
 - Sci-Kit Learn,
+- PyTorch,
 - PySpark,
 - TensorFlow
 
